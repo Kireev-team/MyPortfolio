@@ -187,3 +187,17 @@ body {
   padding-left: 25px;
   background-image: url("img/icon-phone.svg");
 }
+
+.first_site {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.second_site, .third_site, .fourth_site{
+  margin-top: 50px;
+  text-align: center;
+}
+
+.subheading, .subheading_text, .subheading_descr {
+  text-align: center;
+}
